@@ -1,20 +1,25 @@
 <MiInterfaz>:
-
     orientation: "vertical"
     padding: 20
     spacing: 20
 
     Image:
-        id: mi_imagen
+        id: img
         source: "imagen1.png"
+        size_hint: 1, 0.5
+        allow_stretch: True
+        keep_ratio: True
 
     Button:
         text: "Cambiar Imagen"
-        font_size: "20sp"
+        size_hint: 1, 0.2
+        font_size: "18sp"
         on_press: root.cambiar_imagen()
 
-
     Label:
-        text: "Alexander Valdez-14 - Primeras pruebas"
-        font_size: "24sp"
+        text: "Alexander V - Primeras pruebas"
+        size_hint: 1, 0.2
+        font_size: "16sp"
         halign: "center"
+        valign: "middle"
+        text_size: self.size
