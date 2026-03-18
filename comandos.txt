@@ -1,0 +1,133 @@
+sudo apt update
+ 1986  sudo apt upgrade
+ 1987  sudo apt install python3 python3-pip
+ 1988  pip install kivy
+ 1989  python -c "import kivy"
+ 1990  python
+ 1991  pip install kivy
+ 1992  python
+ 1993  which python
+ 1994  python -m pip install kivy
+ 1995  python -c "import kivy"
+ 1996  python -c "import kivy; print(kivy.__version__)"
+ 1997  udo apt install -y git zip unzip openjdk-17-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
+ 1998  sudo apt install -y git zip unzip openjdk-17-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
+ 1999  nano main.py
+ 2000  python -m pip buildozer
+ 2001  python -m pip install buildozer
+ 2002  python main.py 
+ 2003  clear
+ 2004  python main.py 
+ 2005  ls
+ 2006  python main.py 
+ 2007  buildozer
+ 2008  buildozer init
+ 2009  buildozer -v android debug
+ 2010  python -m pip install cython
+ 2011  buildozer -v android debug
+ 2012  conda deactivate
+ 2013  python main.py 
+ 2014  buildozer init
+ 2015  python -m pip install buildozer
+ 2016  buildozer init
+ 2017  https://chatgpt.com/c/69b81923-3184-83e9-8040-45285b7d4374#:~:text=pip%20install%20kivy%20buildozer%20cython
+ 2018  pip install kivy buildozer cython
+ 2019  buildozer android clean
+ 2020  rm -rf .buildozer
+ 2021  buildozer -v android debug
+ 2022  rm -rf .buildozer
+ 2023  pip install "cython<3.0"
+ 2024  cython --version
+ 2025  java -version
+ 2026  buildozer -v android debug
+ 2027  sudo apt install adb
+ 2028  adb devices
+ 2029  sudo apt install adb
+ 2030  adb devices
+ 2031  buildozer android deploy run
+ 2032  history
+ 2033  adb devices
+ 2034  buildozer android deploy run
+ 2035  pip list
+ 2036  pip freeze > requirements.txt
+ 2037  ls
+ 2038  echo "# MiKivyApp" >> README.md
+ 2039  ls
+ 2040  du -sh *
+ 2041  nano .gitignore
+ 2042  nano .gitignore 
+ 2043  cat .gitignore |
+ 2044  cat .gitignore 
+ 2045  git init
+ 2046  git add README.md 
+ 2047  git commit -m "first commit"
+ 2048  git branch -M main
+ 2049  git remote add origin https://github.com/sebastianVP/MiKivyApp.git
+ 2050  git push -u origin master
+ 2051  git push -u origin main
+ 2052  git status
+ 2053  git add *
+ 2054  git add .
+ 2055  git commit -m "mi primera app funcional"
+ 2056  git push
+ 2057  python main.py 
+ 2058  ls
+ 2059  python main.py 
+ 2060  adb devices
+ 2061  history
+ 2062  buildozer android deploy run
+ 2063  adb devices
+ 2064  buildozer android deploy run
+ 2065  python main.py 
+ 2066  buildozer -v android debug
+ 2067  buildozer android deploy run
+ 2068  buildozer -v android debug
+ 2069  buildozer android deploy run
+ 2070  git status
+ 2071  git add .
+ 2072  git commit -m "update"
+ 2073  git push
+ 2074  buildozer -v android debug
+ 2075  buildozer android deploy run
+ 2076  keytool -genkey -v -keystore avpapp.keystore -alias avpapp -keyalg RSA -keysize 2048 -validity 10000
+ 2077  ls
+ 2078  keytool -genkey -v -keystore avpapp.keystore -alias avpapp -keyalg RSA -keysize 2048 -validity 10000
+ 2079  nano .env
+ 2080  nano .gitignore 
+ 2081  git status
+ 2082  ls -l
+ 2083  cat avpapp.keystore 
+ 2084  cd ..
+ 2085  ls
+ 2086  cd KIVY_APP/
+ 2087  ls
+ 2088  export $(grep -v '^#' .env | xargs)
+ 2089  buildozer android release
+ 2090  buildozer android clean
+ 2091  buildozer android release
+ 2092  buildozer android release apk
+ 2093  echo $P4A_RELEASE_KEYSTORE
+ 2094  export $(grep -v '^#' .env | xargs)
+ 2095  echo $P4A_RELEASE_KEYSTORE
+ 2096  env | grep P4A
+ 2097  buildozer android clean
+ 2098  buildozer android release 
+ 2099  export $(grep -v '^#' .env | xargs)
+ 2100  echo $P4A_RELEASE_KEYSTORE
+ 2101  buildozer android clean
+ 2102  buildozer android release 
+ 2103  #keytool -genkey -v -keystore miapp.keystore -alias miapp -keyalg RSA -keysize 2048 -validity 10000
+ 2104  #keytool -genkey -v -keystore avpapp.keystore -alias avpapp -keyalg RSA -keysize 2048 -validity 10000
+ 2105  keytool -genkey -v -keystore avpapp.keystore -alias avpapp -keyalg RSA -keysize 2048 -validity 10000
+ 2106  buildozer android clean
+ 2107  buildozer android release 
+ 2108  keytool -list -v -keystore avpapp.keystore
+ 2109  buildozer android clean
+ 2110  export $(grep -v '^#' .env | xargs)
+ 2111  echo $P4A_RELEASE_KEYSTORE
+ 2112  buildozer android clean
+ 2113  buildozer android release 
+ 2114  cd bin
+ 2115  ls
+ 2116  ls -l
+ 2117  history
